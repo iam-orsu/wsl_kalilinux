@@ -31,3 +31,6 @@ XRDP
 ⚙️ sudo apt install xrdp -y
 ⚙️sudo apt-get install dbus-x11
 ⚙️ sudo service xrdp start
+
+INSTALL ALL THE DEAFULT TOOLS
+sudo apt install kali-linux-large
